@@ -11,61 +11,61 @@ http://scripts.sil.org/OFL
 	font-family: 'Pretendard';
 	font-weight: 900;
 	font-display: swap;
-	src: local('Pretendard Black'), url('./woff2/PretendardBlack.woff2') format('woff2'), url('./woff/PretendardBlack.woff') format('woff');
+	src: local('Pretendard Black'), url('https://cdn.jsdelivr.net/gh/RWB0104/FontBase@master/Pretendard/woff2/PretendardBlack.woff2') format('woff2'), url('https://cdn.jsdelivr.net/gh/RWB0104/FontBase@master/Pretendard/woff/PretendardBlack.woff') format('woff');
 }
 
 @font-face {
 	font-family: 'Pretendard';
 	font-weight: 800;
 	font-display: swap;
-	src: local('Pretendard ExtraBold'), url('./woff2/PretendardExtraBold.woff2') format('woff2'), url('./woff/PretendardExtraBold.woff') format('woff');
+	src: local('Pretendard ExtraBold'), url('https://cdn.jsdelivr.net/gh/RWB0104/FontBase@master/Pretendard/woff2/PretendardExtraBold.woff2') format('woff2'), url('https://cdn.jsdelivr.net/gh/RWB0104/FontBase@master/Pretendard/woff/PretendardExtraBold.woff') format('woff');
 }
 
 @font-face {
 	font-family: 'Pretendard';
 	font-weight: 700;
 	font-display: swap;
-	src: local('Pretendard Bold'), url('./woff2/PretendardBold.woff2') format('woff2'), url('./woff/PretendardBold.woff') format('woff');
+	src: local('Pretendard Bold'), url('https://cdn.jsdelivr.net/gh/RWB0104/FontBase@master/Pretendard/woff2/PretendardBold.woff2') format('woff2'), url('https://cdn.jsdelivr.net/gh/RWB0104/FontBase@master/Pretendard/woff/PretendardBold.woff') format('woff');
 }
 
 @font-face {
 	font-family: 'Pretendard';
 	font-weight: 600;
 	font-display: swap;
-	src: local('Pretendard SemiBold'), url('./woff2/PretendardSemiBold.woff2') format('woff2'), url('./woff/PretendardSemiBold.woff') format('woff');
+	src: local('Pretendard SemiBold'), url('https://cdn.jsdelivr.net/gh/RWB0104/FontBase@master/Pretendard/woff2/PretendardSemiBold.woff2') format('woff2'), url('https://cdn.jsdelivr.net/gh/RWB0104/FontBase@master/Pretendard/woff/PretendardSemiBold.woff') format('woff');
 }
 
 @font-face {
 	font-family: 'Pretendard';
 	font-weight: 500;
 	font-display: swap;
-	src: local('Pretendard Medium'), url('./woff2/PretendardMedium.woff2') format('woff2'), url('./woff/PretendardMedium.woff') format('woff');
+	src: local('Pretendard Medium'), url('https://cdn.jsdelivr.net/gh/RWB0104/FontBase@master/Pretendard/woff2/PretendardMedium.woff2') format('woff2'), url('https://cdn.jsdelivr.net/gh/RWB0104/FontBase@master/Pretendard/woff/PretendardMedium.woff') format('woff');
 }
 
 @font-face {
 	font-family: 'Pretendard';
 	font-weight: 400;
 	font-display: swap;
-	src: local('Pretendard Regular'), url('./woff2/PretendardRegular.woff2') format('woff2'), url('./woff/PretendardRegular.woff') format('woff');
+	src: local('Pretendard Regular'), url('https://cdn.jsdelivr.net/gh/RWB0104/FontBase@master/Pretendard/woff2/PretendardRegular.woff2') format('woff2'), url('https://cdn.jsdelivr.net/gh/RWB0104/FontBase@master/Pretendard/woff/PretendardRegular.woff') format('woff');
 }
 
 @font-face {
 	font-family: 'Pretendard';
 	font-weight: 300;
 	font-display: swap;
-	src: local('Pretendard Light'), url('./woff2/PretendardLight.woff2') format('woff2'), url('./woff/PretendardLight.woff') format('woff');
+	src: local('Pretendard Light'), url('https://cdn.jsdelivr.net/gh/RWB0104/FontBase@master/Pretendard/woff2/PretendardLight.woff2') format('woff2'), url('https://cdn.jsdelivr.net/gh/RWB0104/FontBase@master/Pretendard/woff/PretendardLight.woff') format('woff');
 }
 
 @font-face {
 	font-family: 'Pretendard';
 	font-weight: 200;
 	font-display: swap;
-	src: local('Pretendard ExtraLight'), url('./woff2/PretendardExtraLight.woff2') format('woff2'), url('./woff/PretendardExtraLight.woff') format('woff');
+	src: local('Pretendard ExtraLight'), url('https://cdn.jsdelivr.net/gh/RWB0104/FontBase@master/Pretendard/woff2/PretendardExtraLight.woff2') format('woff2'), url('https://cdn.jsdelivr.net/gh/RWB0104/FontBase@master/Pretendard/woff/PretendardExtraLight.woff') format('woff');
 }
 
 @font-face {
 	font-family: 'Pretendard';
 	font-weight: 100;
 	font-display: swap;
-	src: local('Pretendard Thin'), url('./woff2/PretendardThin.woff2') format('woff2'), url('./woff/PretendardThin.woff') format('woff');
+	src: local('Pretendard Thin'), url('https://cdn.jsdelivr.net/gh/RWB0104/FontBase@master/Pretendard/woff2/PretendardThin.woff2') format('woff2'), url('https://cdn.jsdelivr.net/gh/RWB0104/FontBase@master/Pretendard/woff/PretendardThin.woff') format('woff');
 }
